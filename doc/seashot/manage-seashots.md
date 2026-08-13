@@ -1,0 +1,1 @@
+# Manage and share your seashots

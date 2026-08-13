@@ -1,0 +1,9 @@
+# Jupyter Book / MyST build artefacts
+_build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

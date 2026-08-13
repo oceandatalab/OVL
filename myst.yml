@@ -1,0 +1,100 @@
+version: 1
+
+project:
+  id: ovl-user-manual
+  title: Ocean Virtual Laboratory — User Manual
+  short_title: OVL Manual
+  description: >-
+    User manual for the OVL portal, the SEAScope standalone application
+    and the SEAShot tool, developed by OceanDataLab.
+  keywords:
+    - ocean
+    - Earth observation
+    - satellite
+    - visualisation
+    - OVL
+    - SEAScope
+    - SEAShot
+  authors:
+    - name:
+        literal: OceanDataLab
+      url: https://www.oceandatalab.com
+  github: https://github.com/oceandatalab/OVL
+  toc:
+    - file: doc/index.md
+      title: Home
+    - file: doc/ovl/index.md
+      title: OVL portal
+      children:
+        - file: doc/ovl/general-overview.md
+          title: Overview
+        - file: doc/ovl/features.md
+          title: Features
+        - file: doc/ovl/howto.md
+          title: Tips and how to
+        - file: doc/ovl/jupyter-notebooks.md
+          title: Jupyter notebooks examples
+          children:
+            - file: notebooks/ovl-portal/plot_ovl_extraction.ipynb
+              title: Plot data extracted from the OVL portal
+            - file: notebooks/ovl-portal/S1_swell_from_OVL.ipynb
+              title: Sentinel-1 swell from the OVL portal
+    - file: doc/seascope/index.md
+      title: SEAScope
+      children:
+        - file: doc/seascope/download-install.md
+          title: Download and install
+        - file: doc/seascope/start-seascope.md
+          title: Starting SEAScope
+        - file: doc/seascope/add-data.md
+          title: Adding data to SEAScope
+        - file: doc/seascope/general-overview.md
+          title: Overview
+        - file: doc/seascope/features.md
+          title: Features
+        - file: doc/seascope/python-interaction.md
+          title: Python interaction with SEAScope
+        - file: doc/seascope/notebooks-example.md
+          title: Jupyter python Notebooks Examples
+          children:
+            - file: notebooks/seascope/learn_seascope_converter.ipynb
+              title: Converting data with the IDF converter
+            - file: notebooks/seascope/SWN24_CFOSAT_SWIM_L2S_to_SEAScope.ipynb
+              title: Exporting CFOSAT SWIM L2S to SEAScope
+            - file: notebooks/seascope/Compute_Sentinel-1_radial_velocities.ipynb
+              title: Computing Sentinel-1 radial velocities
+            - file: notebooks/seascope/S2_Swell.ipynb
+              title: Sentinel-2 swell
+            - file: notebooks/seascope/SWELL_refrac.ipynb
+              title: Swell refraction
+    - file: doc/seashot/index.md
+      title: SEAShot
+      children:
+        - file: doc/seashot/login.md
+          title: Sign up / Log in
+        - file: doc/seashot/create-seashot.md
+          title: Creating a seashot
+        - file: doc/seashot/manage-seashots.md
+          title: Manage and share your seashots
+
+site:
+  template: book-theme
+  title: OVL User Manual
+  options:
+    # Use the directory structure for URLs (/ovl/, /seascope/) instead of
+    # flat slugs (/index-1, /index-2).
+    folders: true
+    logo: images/odl-logo.svg
+    logo_alt: OceanDataLab
+    logo_url: https://www.oceandatalab.com
+    logo_text: OVL-NG tools
+    favicon: images/favicon.ico
+  parts:
+    primary_sidebar_footer: parts/sidebar-footer.md
+  nav:
+    - title: OVL portal
+      url: https://ovl.oceandatalab.com
+    - title: SEAScope
+      url: https://seascope.oceandatalab.com
+    - title: SEAShot
+      url: https://seashot.odl.bzh
