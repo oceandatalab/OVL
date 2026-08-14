@@ -1,0 +1,43 @@
+name: SEAShot
+description: Report a bug, ask a question or suggest an improvement about SEAShot
+labels: ["SEAShot"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For the tool at <https://seashot.odl.bzh>, used to capture and share views
+        taken from the OVL portal. The
+        [SEAShot chapter](https://oceandatalab.github.io/OVL/doc/seashot/) of the
+        manual describes creating, publishing and sharing a seashot.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is this about?
+      options:
+        - Something does not work
+        - A question about how to use SEAShot
+        - A problem with an account
+        - A suggestion
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe it
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+
+  - type: input
+    id: seashot
+    attributes:
+      label: Link to the seashot
+      description: If it concerns a seashot that already exists and is not private.
+
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: Firefox 128, Chrome 127, Safari 17 ...
