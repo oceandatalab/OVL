@@ -26,4 +26,4 @@ Open an [issue](https://github.com/oceandatalab/OVL/issues) — for questions ab
 using the tools as well as for bugs. When reporting a bug, please say which tool
 you were using, what you expected, and what happened instead.
 
-You can also reach us at <https://www.oceandatalab.com/contact>.
+You can also reach us at <https://www.oceandatalab.com>.
