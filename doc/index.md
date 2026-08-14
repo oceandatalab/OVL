@@ -3,7 +3,12 @@
 <a href="https://www.oceandatalab.com"><img src="../images/odl-logo.svg" alt="OceanDataLab" width="150" align="right"></a>
 
 This manual covers the three tools developed by [OceanDataLab](https://www.oceandatalab.com)
-within the ESA OVL-NG project for the joint exploration of satellite, in-situ and model ocean data:
+within the ESA OVL-NG project for the joint exploration of satellite, in-situ and model ocean data.
+
+> 📖 Reading this on GitHub? The same manual is published as a website at
+> **<https://oceandatalab.github.io/OVL/>**, with a table of contents and a search box.
+
+The three tools:
 
 | Tool | What it is |
 | --- | --- |
