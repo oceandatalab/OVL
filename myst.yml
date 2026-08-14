@@ -84,13 +84,11 @@ site:
     # Use the directory structure for URLs (/ovl/, /seascope/) instead of
     # flat slugs (/index-1, /index-2).
     folders: true
-    logo: images/odl-logo.svg
-    logo_alt: OceanDataLab
-    logo_url: https://www.oceandatalab.com
     logo_text: OVL-NG tools
     favicon: images/favicon.ico
   parts:
     primary_sidebar_footer: parts/sidebar-footer.md
+    navbar_end: parts/navbar-end.md
   nav:
     - title: OVL portal
       url: https://ovl.oceandatalab.com
