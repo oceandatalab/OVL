@@ -1,6 +1,6 @@
 <a href="https://www.oceandatalab.com"><img src="images/odl-logo.svg" alt="OceanDataLab" width="150" align="right"></a>
 
-# OVL
+# Ocean Virtual Laboratory
 
 **📖 [Read the manual online](https://oceandatalab.github.io/OVL/)** — with a
 table of contents, a search box and the notebooks rendered with their outputs.
