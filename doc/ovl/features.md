@@ -43,7 +43,9 @@ and land features.
 
 Moving through time, selecting a time range, animation.
 
-* [How to play with time and timespan](https://youtu.be/LSLuJCebDVk?si=wvDRaWhXfNjqNH2K)
+[![How to play with time and timespan](https://img.youtube.com/vi/LSLuJCebDVk/mqdefault.jpg)](https://youtu.be/LSLuJCebDVk?si=wvDRaWhXfNjqNH2K)
+
+▶ [How to play with time and timespan](https://youtu.be/LSLuJCebDVk?si=wvDRaWhXfNjqNH2K)
 
 ### Selecting a timespan
 
@@ -93,8 +95,12 @@ you control how they are drawn:
 
 ![The Display data panel open, showing the selected layers and the controls available on each of them](pict/display-data.png)
 
-* [How to search and select products](https://youtu.be/JmmjXxXYvvE?si=V4ZX_JpFJNfNQfX2)
-* [How to compare data playing with layers](https://youtu.be/OieBsyeamQo?si=IdfqwNTgYguG3CFD)
+[![How to search and select products](https://img.youtube.com/vi/JmmjXxXYvvE/mqdefault.jpg)](https://youtu.be/JmmjXxXYvvE?si=V4ZX_JpFJNfNQfX2)
+
+▶ [How to search and select products](https://youtu.be/JmmjXxXYvvE?si=V4ZX_JpFJNfNQfX2)
+[![How to compare data playing with layers](https://img.youtube.com/vi/OieBsyeamQo/mqdefault.jpg)](https://youtu.be/OieBsyeamQo?si=IdfqwNTgYguG3CFD)
+
+▶ [How to compare data playing with layers](https://youtu.be/OieBsyeamQo?si=IdfqwNTgYguG3CFD)
 
 ### Getting the data from the provider
 
@@ -160,13 +166,19 @@ or the download button of the edit panel for a single shape or all shape visible
 import button in the top bar of the window.
 
 
-Look at the Youtube tutorial video for more features: [How to draw a synoptic chart](https://youtu.be/6YPwJCFHBIc?si=2GR42P3bvj18SaVb)
+Look at the Youtube tutorial video for more features:
+
+[![How to draw a synoptic chart](https://img.youtube.com/vi/6YPwJCFHBIc/mqdefault.jpg)](https://youtu.be/6YPwJCFHBIc?si=2GR42P3bvj18SaVb)
+
+▶ [How to draw a synoptic chart](https://youtu.be/6YPwJCFHBIc?si=2GR42P3bvj18SaVb)
 
 
 ## Transects and extractions
 
 Extracting values along a line, and exporting the result.
-[How to measure a length](https://youtu.be/Y9UGZOiF45w?si=b5Hddt-ghvCGx1-A)
+[![How to measure a length](https://img.youtube.com/vi/Y9UGZOiF45w/mqdefault.jpg)](https://youtu.be/Y9UGZOiF45w?si=b5Hddt-ghvCGx1-A)
+
+▶ [How to measure a length](https://youtu.be/Y9UGZOiF45w?si=b5Hddt-ghvCGx1-A)
 
 ## Lagrangian advection
 

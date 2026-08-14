@@ -7,7 +7,9 @@
 * Uncompress the archive: a directory named seascope is created
 
 Instructions are available also on our YouTube video:
-[How to Install SEAScope on Linux](https://youtu.be/2DuqY6s1JZk?si=jGfDPOnXKfl7o07y)
+[![How to Install SEAScope on Linux](https://img.youtube.com/vi/2DuqY6s1JZk/mqdefault.jpg)](https://youtu.be/2DuqY6s1JZk?si=jGfDPOnXKfl7o07y)
+
+▶ [How to Install SEAScope on Linux](https://youtu.be/2DuqY6s1JZk?si=jGfDPOnXKfl7o07y)
 
 ## macOS
 
@@ -15,7 +17,9 @@ Instructions are available also on our YouTube video:
 * Drag SEAScope to the Applications folder
 
 Instructions are available also on our YouTube video:
-[How to Install SEAScope on macOS](https://youtu.be/dThn0PzKwj0?si=LFiYEVTcy0yqRpGC)
+[![How to Install SEAScope on macOS](https://img.youtube.com/vi/dThn0PzKwj0/mqdefault.jpg)](https://youtu.be/dThn0PzKwj0?si=LFiYEVTcy0yqRpGC)
+
+▶ [How to Install SEAScope on macOS](https://youtu.be/dThn0PzKwj0?si=LFiYEVTcy0yqRpGC)
 
 ## Windows
 
@@ -24,4 +28,6 @@ Instructions are available also on our YouTube video:
 * Uncompress the archive: a directory named seascope is created
 
 Instructions are available also on our YouTube video:
-[How to Install SEAScope on Windows](https://youtu.be/M_m7F8NmICE?si=4MWDLNHwj5G7p23s)
+[![How to Install SEAScope on Windows](https://img.youtube.com/vi/M_m7F8NmICE/mqdefault.jpg)](https://youtu.be/M_m7F8NmICE?si=4MWDLNHwj5G7p23s)
+
+▶ [How to Install SEAScope on Windows](https://youtu.be/M_m7F8NmICE?si=4MWDLNHwj5G7p23s)
