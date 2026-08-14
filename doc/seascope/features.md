@@ -2,7 +2,41 @@
 
 ## Navigating the globe
 
-Camera controls, zoom, and the different viewing modes.
+The 3D map is the canvas your data is drawn on. You move around it with the
+mouse:
+
+* **rotate** — place the cursor on the globe, hold the left button down and move
+  the mouse; release it once you reach the point of view you want
+* **zoom** — use the mouse wheel, or the **Page Up** and **Page Down** keys
+
+SEAScope keeps the viewing state between launches: you find the globe where you
+left it, at the same location and altitude.
+
+### Knowing where you are
+
+The view info, at the top of the window, gives three indications:
+
+* the longitude and latitude of the mouse cursor, in decimal degrees
+* the viewing altitude — the distance between the camera and the surface of the
+  globe — in metres or kilometres
+* the scale, as an order of magnitude between pixels and geographical distances
+
+### Camera controls
+
+Beside the drawing tools, the toolbar at the top left holds:
+
+* **zoom in** and **zoom out**
+* **reset the viewing state**, to come back to the initial location and altitude
+* **aligned globe rotation**, a toggle: switched on, the rotation is locked on the
+  longitude / latitude axes; switched off, the globe rotates freely in any
+  direction
+* the **rasterization mode** selector, which is where the different viewing modes
+  live: **F** for full, **W** for wireframe and **V** for vertex
+
+> [!NOTE]
+> These controls are described in more detail in the
+> [SEAScope user manual](https://seascope.oceandatalab.com/docs/seascope_user_manual_20260126.pdf),
+> which also covers the configuration file and the Python package.
 
 ## Working with layers
 
