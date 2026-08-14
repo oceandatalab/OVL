@@ -2,9 +2,7 @@
 
 Launching the application and a tour of the interface.
 
-:::{iframe} https://www.youtube.com/embed/wpxHfZBEDXw
-:width: 100%
-Standalone SEAScope interactive application
-:::
-
-▶ [Standalone SEAScope interactive application](https://youtu.be/wpxHfZBEDXw?si=8JhwZWwJK8l2ZTV2)
+<p align="center">
+<a href="https://youtu.be/wpxHfZBEDXw?si=8JhwZWwJK8l2ZTV2"><img src="https://img.youtube.com/vi/wpxHfZBEDXw/mqdefault.jpg" alt="Video: Standalone SEAScope interactive application" width="360"></a><br>
+<a href="https://youtu.be/wpxHfZBEDXw?si=8JhwZWwJK8l2ZTV2">▶ Video: Standalone SEAScope interactive application</a>
+</p>
