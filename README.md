@@ -2,18 +2,16 @@
 
 # OVL
 
+**📖 [Read the manual online](https://oceandatalab.github.io/OVL/)** — with a
+table of contents, a search box and the notebooks rendered with their outputs.
+
 Ocean Virtual Laboratory resources, maintained by
 [OceanDataLab](https://www.oceandatalab.com).
 
 This repository holds the user manual for the three tools we develop for the
-joint exploration of satellite, in-situ and model ocean data.
-
-> 📖 **[Read the manual online](https://oceandatalab.github.io/OVL/)** — the same
-> content as a website, with a table of contents, a search box and the notebooks
-> rendered with their outputs.
-
-You can also read it directly here on GitHub — start at
-**[the manual index](doc/index.md)**, or jump straight to a chapter:
+joint exploration of satellite, in-situ and model ocean data. You can also read
+it directly here on GitHub — start at **[the manual index](doc/index.md)**, or
+jump straight to a chapter:
 
 | Chapter | What it covers |
 | --- | --- |
