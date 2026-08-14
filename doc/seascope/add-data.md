@@ -13,27 +13,30 @@ You can download data samples from the [SEAScope webpage](https://seascope.ocean
 * Uncompress the archive
 * Copy the content (the folders and files in the sample data directory) into [workspace]/seascope/data
 
-[![How to add data to SEAScope on Linux](https://img.youtube.com/vi/3ZAzgl3v2lo/mqdefault.jpg)](https://youtu.be/3ZAzgl3v2lo?si=Mlstme382XVkknAp)
-
-▶ [How to add data to SEAScope on Linux](https://youtu.be/3ZAzgl3v2lo?si=Mlstme382XVkknAp)
+<p align="center">
+<a href="https://youtu.be/3ZAzgl3v2lo?si=Mlstme382XVkknAp"><img src="https://img.youtube.com/vi/3ZAzgl3v2lo/mqdefault.jpg" alt="Video: How to add data to SEAScope on Linux" width="360"></a><br>
+<a href="https://youtu.be/3ZAzgl3v2lo?si=Mlstme382XVkknAp">▶ Video: How to add data to SEAScope on Linux</a>
+</p>
 
 ### macOS
 * Download your samples (`*.zip` archive)
 * Drag-n-drop the zipped or unzipped folder onto the “SEAScope” icon
 * Alternatively you can copy the content (the folders and files in the data directory) into ~/SEAScope-workspace/data directory
 
-[![How to add data to SEAScope on macOS](https://img.youtube.com/vi/s5X3ewpmcuw/mqdefault.jpg)](https://youtu.be/s5X3ewpmcuw?si=1s4V9qxMoJr8qKPV)
-
-▶ [How to add data to SEAScope on macOS](https://youtu.be/s5X3ewpmcuw?si=1s4V9qxMoJr8qKPV)
+<p align="center">
+<a href="https://youtu.be/s5X3ewpmcuw?si=1s4V9qxMoJr8qKPV"><img src="https://img.youtube.com/vi/s5X3ewpmcuw/mqdefault.jpg" alt="Video: How to add data to SEAScope on macOS" width="360"></a><br>
+<a href="https://youtu.be/s5X3ewpmcuw?si=1s4V9qxMoJr8qKPV">▶ Video: How to add data to SEAScope on macOS</a>
+</p>
 
 ### Windows
 * Download your samples (`*.zip` archive)
 * Uncompress the archive
 * Copy the content (the folders and files in the sample data directory) into [workspace]/seascope/data
 
-[![How to add data to SEAScope on Windows](https://img.youtube.com/vi/TsJSg7V7WNU/mqdefault.jpg)](https://youtu.be/TsJSg7V7WNU?si=5F5uN4TEA33it1Ui)
-
-▶ [How to add data to SEAScope on Windows](https://youtu.be/TsJSg7V7WNU?si=5F5uN4TEA33it1Ui)
+<p align="center">
+<a href="https://youtu.be/TsJSg7V7WNU?si=5F5uN4TEA33it1Ui"><img src="https://img.youtube.com/vi/TsJSg7V7WNU/mqdefault.jpg" alt="Video: How to add data to SEAScope on Windows" width="360"></a><br>
+<a href="https://youtu.be/TsJSg7V7WNU?si=5F5uN4TEA33it1Ui">▶ Video: How to add data to SEAScope on Windows</a>
+</p>
 
 ## Index
 

@@ -33,6 +33,13 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Embed the videos
+        # The sources keep a thumbnail linking to YouTube, because that is what
+        # GitHub renders. Only the published site gets a real player, so this
+        # rewrites the checkout on the runner. It fails if a thumbnail is left
+        # unconverted, rather than silently publishing a page without a player.
+        run: python .github/scripts/embed-videos.py
+
       - name: Build the HTML
         # BASE_URL makes the links work when the site is served from a
         # sub-path such as /OVL/ rather than from the domain root.
