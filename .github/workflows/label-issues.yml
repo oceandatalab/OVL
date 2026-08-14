@@ -1,0 +1,56 @@
+name: Label issues by tool
+
+# The issue templates apply the type label (bug, enhancement, question,
+# feedback) on their own, but a form dropdown cannot apply a label: GitHub only
+# supports the static list declared in the template. This reads the answer to
+# "Which tool?" and adds the matching label.
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  issues: write
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const TOOLS = {
+              'OVL portal': 'OVL portal',
+              'SEAScope': 'SEAScope',
+              'SEAShot': 'SEAShot',
+              'The manual': 'documentation',
+              // "Other" is deliberately absent: no tool label, triage by hand.
+            };
+
+            const body = context.payload.issue.body || '';
+            const match = body.match(/###\s*Which tool\?\s*\r?\n+\s*([^\r\n]+)/i);
+            if (!match) {
+              core.info('No "Which tool?" answer found, nothing to do.');
+              return;
+            }
+
+            const answer = match[1].trim();
+            const label = TOOLS[answer];
+            if (!label) {
+              core.info(`No label mapped for "${answer}".`);
+              return;
+            }
+
+            const current = context.payload.issue.labels.map(l => l.name);
+            if (current.includes(label)) {
+              core.info(`Already labelled "${label}".`);
+              return;
+            }
+
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              labels: [label],
+            });
+            core.info(`Added "${label}".`);

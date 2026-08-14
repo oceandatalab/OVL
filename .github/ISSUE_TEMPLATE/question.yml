@@ -1,0 +1,24 @@
+name: Question
+description: Ask how to do something
+labels: ["question"]
+body:
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Which tool?
+      options:
+        - OVL portal
+        - SEAScope
+        - SEAShot
+        - The manual
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Your question
+      description: The manual may already answer it — https://oceandatalab.github.io/OVL/
+    validations:
+      required: true
