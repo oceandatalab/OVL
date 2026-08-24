@@ -1,4 +1,4 @@
-# Ocean Virtual Laboratory Next Generation tools
+# Ocean Virtual Laboratory Next Generation tools : User Manual
 
 <a href="https://www.oceandatalab.com"><img src="../images/odl-logo.svg" alt="OceanDataLab" width="150" align="right"></a>
 
