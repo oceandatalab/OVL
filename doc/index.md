@@ -19,7 +19,7 @@ The three tools:
 
 ## Asking a question, reporting a bug or suggesting improvements
 
-Open an [issue](https://github.com/oceandatalab/OVL/issues) — for questions about
+Open an [issue](https://github.com/oceandatalab/OVL/issues) — Clic on "New issue" for questions about
 using the tools as well as for bugs or suggesting improvements. When reporting a bug, please say which tool
 you were using, what you expected, and what happened instead.
 
