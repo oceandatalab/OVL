@@ -186,11 +186,11 @@ How to measure a distance
 <a href="https://youtu.be/Y9UGZOiF45w?si=b5Hddt-ghvCGx1-A">▶ Video: How to measure a length</a>
 </p>
 
-Extracting values along a line (transect
+Extracting values along a line (transect)
 <p align="center">
-<a href="https://youtu.be/0KZaAIr20zI"><img src="https://img.youtube.com/vi/0KZaAIr20zI/mqdefault.jpg" alt="Video: Extracting values along a line" width="360">
+<a href="https://youtu.be/0KZaAIr20zI?si=b5Hddt-ghvCGx1-A"><img src="https://img.youtube.com/vi/0KZaAIr20zI/mqdefault.jpg" alt="Video: Extracting values along a line" width="360">
 </a><br>
-<a href="https://youtu.be/0KZaAIr20zI">▶ Video: How to measure a length</a>
+<a href="https://youtu.be/0KZaAIr20zI?si=b5Hddt-ghvCGx1-A">▶ Video: How to measure a length</a>
 </p>
 
 
