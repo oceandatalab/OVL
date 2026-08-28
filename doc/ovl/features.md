@@ -178,7 +178,7 @@ Look at the Youtube tutorial video for more features:
 </p>
 
 
-## Distance measurement, transects and extractions
+## Distance measurement, transects and layers extractions
 
 How to measure a distance
 <p align="center">
@@ -188,11 +188,17 @@ How to measure a distance
 
 Extracting values along a line (transect)
 <p align="center">
-<a href="https://youtu.be/0KZaAIr20zI?si=b5Hddt-ghvCGx1-A"><img src="https://img.youtube.com/vi/0KZaAIr20zI/mqdefault.jpg" alt="Video: Extracting values along a line" width="360">
+<a href="https://youtu.be/0KZaAIr20zI"><img src="https://img.youtube.com/vi/0KZaAIr20zI/mqdefault.jpg" alt="Video: Extracting values along a line" width="360">
 </a><br>
-<a href="https://youtu.be/0KZaAIr20zI?si=b5Hddt-ghvCGx1-A">▶ Video: How to measure a length</a>
+<a href="https://youtu.be/0KZaAIr20zI">▶ Video: How to measure a length</a>
 </p>
 
+Extracting layers over a bounding box
+<p align="center">
+<a href="https://youtu.be/FpB6r0SYz4w?si=4tSx23vBHTWH-0rW"><img src="https://img.youtube.com/vi/FpB6r0SYz4w/mqdefault.jpg" alt="Video: How to Extract layers over a bounding box" width="360">
+</a><br>
+<a href="https://youtu.be/FpB6r0SYz4w?si=4tSx23vBHTWH-0rW">▶ Video: How to Extract layers over a bounding box</a>
+</p>
 
 ## Lagrangian advection
 
