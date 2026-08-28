@@ -178,13 +178,20 @@ Look at the Youtube tutorial video for more features:
 </p>
 
 
-## Transects and extractions
+## Distance measurement, transects and extractions
 
-Extracting values along a line, and exporting the result.
+How to measure a distance
 <p align="center">
 <a href="https://youtu.be/Y9UGZOiF45w?si=b5Hddt-ghvCGx1-A"><img src="https://img.youtube.com/vi/Y9UGZOiF45w/mqdefault.jpg" alt="Video: How to measure a length" width="360"></a><br>
 <a href="https://youtu.be/Y9UGZOiF45w?si=b5Hddt-ghvCGx1-A">▶ Video: How to measure a length</a>
 </p>
+
+Extracting values along a line (transect
+<p align="center">
+<a href="https://youtu.be/0KZaAIr20zI"><img src="https://img.youtube.com/vi/0KZaAIr20zI/mqdefault.jpg" alt="Video: Extracting values along a line" width="360"></a><br>
+<a href="https://youtu.be/0KZaAIr20zI">▶ Video: How to measure a length</a>
+</p>
+
 
 ## Lagrangian advection
 
