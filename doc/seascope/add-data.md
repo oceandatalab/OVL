@@ -50,7 +50,7 @@ Alternatively, you can delete the `[workspace]/seascope/index.fb` file (or `~/SE
 SEAScope reads netCDF-4 files. What you have to do with your own data depends on
 the geometry it is stored in.
 
-### Data on a regular grid
+### NetCDF Data on a regular grid
 
 Data on a regular latitude / longitude grid are read natively, provided the file
 is netCDF-4 and compliant with the CF conventions, version 1.6 or above. Such a
