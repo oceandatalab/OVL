@@ -20,6 +20,8 @@ OceanDataLab, and is partly funded by the European Space Agency.
 | **[Typical user workflow](howto.md)** | Recipes for common tasks, such as searching and collocating datasets, playing with layers, draw a synoptic chart. |
 | **[Jupyter notebooks examples](jupyter-notebooks.md)** | Worked examples using data extracted from the portal. |
 
+## FAQ (How to cite etc ...)
+
 ## Asking a question or reporting a bug
 
 Open an [issue](https://github.com/oceandatalab/OVL/issues) — for questions about
