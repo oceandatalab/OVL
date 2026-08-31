@@ -45,7 +45,7 @@ the geometry it is stored in.
 
 Data on a regular latitude / longitude grid are read natively, provided the file
 is netCDF-4 and compliant with the CF conventions, version 1.6 or above. Such a
-file can be copied into the data directory as it is.
+file can be copied into the data directory as it is. An init file is needed (see exemple)
 
 ### Data in sensor geometry
 
