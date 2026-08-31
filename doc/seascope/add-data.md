@@ -84,3 +84,5 @@ brightness temperatures into sea surface temperature.
 
 Worked examples for Sentinel-1, Sentinel-3 SLSTR L1 and SWOT L3 are given in the
 [IDF converter notebook](../../notebooks/seascope/learn_seascope_converter.ipynb).
+
+### Load data directly from Python
