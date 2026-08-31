@@ -17,7 +17,7 @@ OceanDataLab, and is partly funded by the European Space Agency.
 | --- | --- |
 | **[General overview](general-overview.md)** | A tour of the portal and of the vocabulary used in this chapter. |
 | **[Specific features](features.md)** | The map, timeline, data panel, rendering controls, annotations, transects, hotspots and sharing, feature by feature. |
-| **[Tips and how to](howto.md)** | Recipes for common tasks, such as searching and collocating datasets, playing with layers, draw a synoptic chart. |
+| **[Typical user workflow](howto.md)** | Recipes for common tasks, such as searching and collocating datasets, playing with layers, draw a synoptic chart. |
 | **[Jupyter notebooks examples](jupyter-notebooks.md)** | Worked examples using data extracted from the portal. |
 
 ## Asking a question or reporting a bug
