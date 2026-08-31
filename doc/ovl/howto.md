@@ -1,5 +1,9 @@
-# Tips and how to
+# Typical user workflow
 
-## Search and collocate datasets
+## Search, collocate and compare datasets
 
 
+## draw synoptic chart
+
+
+## 
