@@ -63,6 +63,7 @@ to be converted into the Intermediate Data Format (IDF). An IDF file is a
 netCDF-4 file in which the geolocation is stored as subsampled longitude and
 latitude arrays with ground control points, which is what allows SEAScope to draw
 the swath on the globe without reprojecting it first.
+ A converter is available and covers already a wide variety of sensors (see section below `The IDF converter`)
 
 The full description of the format is given in the
 [IDF specifications](https://seascope.oceandatalab.com/docs/idf_specifications_1.5.pdf).
@@ -95,3 +96,15 @@ Worked examples for Sentinel-1, Sentinel-3 SLSTR L1 and SWOT L3 are given in the
 [IDF converter notebook](../../notebooks/seascope/learn_seascope_converter.ipynb).
 
 ### Load data directly from Python
+
+Rather than converting a file to IDF and placing it in the data directory, you
+can push a collection, its granules and variables straight into a running
+SEAScope instance from a Python session — see
+[Sending your own data to SEAScope](python-interaction.md#sending-your-own-data-to-seascope)
+for how it works.
+
+Worked examples: the
+[trajectory notebook](../../notebooks/seascope/features/trajectory.ipynb)
+builds and sends data entirely in Python, and
+[Exporting CFOSAT SWIM L2S to SEAScope](../../notebooks/seascope/use_cases/SWN24_CFOSAT_SWIM_L2S_to_SEAScope.ipynb)
+sends a real netCDF file this way instead of converting it to IDF.
