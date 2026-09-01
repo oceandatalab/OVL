@@ -87,4 +87,57 @@ The calendar itself shows the availability of the data you selected:
 
 ## Analysis tools
 
-Extraction under a polygone
+SEAScope can extract the layers you are viewing under a polygon or a polyline,
+and send the result to a Jupyter notebook for further analysis. All the data
+under the shape is extracted onto the same points, at the resolution of the
+screen.
+
+<p align="center">
+<a href="https://youtu.be/nADgZQ8o31s?si=rDHMfJ6LcTJoDFfL"><img src="https://img.youtube.com/vi/nADgZQ8o31s/mqdefault.jpg" alt="Video: How to extract data under a polygon" width="360"></a><br>
+<a href="https://youtu.be/nADgZQ8o31s?si=rDHMfJ6LcTJoDFfL">▶ Video: How to extract data under a polygon</a>
+</p>
+
+### Extracting data under a polygon
+
+1. Zoom in to properly see the features you want to extract
+2. Draw a polygon over the region you want to extract:
+    1. Start drawing by clicking on the 3<sup>rd</sup> button to the right of the pen icon in the toolbar, or by hitting the <kbd>P</kbd> key
+    2. Place the corners of the polygon by left-clicking on the globe
+    3. Once all the corners are placed, hit the <kbd>Enter</kbd> or <kbd>Return</kbd> key to commit your polygon
+3. Select the polygon you just created by clicking on it
+4. Extract the data intersecting that polygon by clicking on the extract button in the "Selected annotation" panel
+
+### Extracting data under a polyline
+
+The procedure is the same as for a polygon. To draw a polyline instead, click
+on the 2<sup>nd</sup> button to the right of the pen icon in the toolbar, or
+hit the <kbd>L</kbd> key.
+
+### Retrieving the extracted data in the notebook
+
+Once an extraction has been sent to the notebook, fetch it with the
+`SEAScope.lib` package:
+
+```python
+from SEAScope.lib import get_extracted_data
+
+extractions = get_extracted_data()
+```
+
+`extractions` is a dictionary keyed by granule URI. Each value holds:
+
+* `data` — a dictionary of the extracted field arrays
+* `meta['start']` and `meta['stop']` — the time coverage of the granule
+* `meta['fields']` — the list of extracted fields
+* `meta['gcps']` — the ground control points describing the mesh of the
+  polygon or polyline used for the extraction
+
+Use `SEAScope.lib.utils.get_lonlat` to rebuild the `lon` and `lat` coordinate
+arrays from an extraction's `gcps`.
+
+Worked examples of data extraction are provided in the
+[example notebooks](notebooks-example.md), in particular
+[Sentinel-2 swell](../../notebooks/seascope/S2_Swell.ipynb),
+[Swell refraction](../../notebooks/seascope/SWELL_refrac.ipynb) and
+[Computing Sentinel-1 radial velocities](../../notebooks/seascope/Compute_Sentinel-1_radial_velocities.ipynb).
+
