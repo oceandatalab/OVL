@@ -29,9 +29,9 @@ project:
         - file: doc/ovl/general-overview.md
           title: Overview
         - file: doc/ovl/features.md
-          title: Features
+          title: Individual features
         - file: doc/ovl/howto.md
-          title: Tips and how to
+          title: Typical user workflows
         - file: doc/ovl/jupyter-notebooks.md
           title: Jupyter notebooks examples
           children:
