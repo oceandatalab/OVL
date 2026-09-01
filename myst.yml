@@ -54,18 +54,29 @@ project:
           title: Features
         - file: doc/seascope/python-interaction.md
           title: Python interaction with SEAScope
+          children:
+            - file: notebooks/seascope/features/camera.ipynb
+              title: Controlling the camera
+            - file: notebooks/seascope/features/timeline.ipynb
+              title: Controlling the timeline
+            - file: notebooks/seascope/features/rendering.ipynb
+              title: Controlling rendering
+            - file: notebooks/seascope/features/extraction.ipynb
+              title: Retrieving and sending back extracted data
+            - file: notebooks/seascope/features/trajectory.ipynb
+              title: Sending a trajectory to SEAScope
         - file: doc/seascope/notebooks-example.md
           title: Jupyter python Notebooks Examples
           children:
             - file: notebooks/seascope/learn_seascope_converter.ipynb
               title: Converting data with the IDF converter
-            - file: notebooks/seascope/SWN24_CFOSAT_SWIM_L2S_to_SEAScope.ipynb
+            - file: notebooks/seascope/use_cases/SWN24_CFOSAT_SWIM_L2S_to_SEAScope.ipynb
               title: Exporting CFOSAT SWIM L2S to SEAScope
-            - file: notebooks/seascope/Compute_Sentinel-1_radial_velocities.ipynb
+            - file: notebooks/seascope/use_cases/Compute_Sentinel-1_radial_velocities.ipynb
               title: Computing Sentinel-1 radial velocities
-            - file: notebooks/seascope/S2_Swell.ipynb
+            - file: notebooks/seascope/use_cases/S2_Swell.ipynb
               title: Sentinel-2 swell
-            - file: notebooks/seascope/SWELL_refrac.ipynb
+            - file: notebooks/seascope/use_cases/SWELL_refrac.ipynb
               title: Swell refraction
     - file: doc/seashot/index.md
       title: SEAShot

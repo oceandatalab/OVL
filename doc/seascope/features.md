@@ -137,7 +137,9 @@ arrays from an extraction's `gcps`.
 
 Worked examples of data extraction are provided in the
 [example notebooks](notebooks-example.md), in particular
-[Sentinel-2 swell](../../notebooks/seascope/S2_Swell.ipynb),
-[Swell refraction](../../notebooks/seascope/SWELL_refrac.ipynb) and
-[Computing Sentinel-1 radial velocities](../../notebooks/seascope/Compute_Sentinel-1_radial_velocities.ipynb).
+[Sentinel-2 swell](../../notebooks/seascope/use_cases/S2_Swell.ipynb),
+[Swell refraction](../../notebooks/seascope/use_cases/SWELL_refrac.ipynb) and
+[Computing Sentinel-1 radial velocities](../../notebooks/seascope/use_cases/Compute_Sentinel-1_radial_velocities.ipynb).
+A minimal, standalone example of retrieving and sending back extracted data is
+also available in [Python interaction with SEAScope](python-interaction.md).
 
