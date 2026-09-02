@@ -22,6 +22,14 @@ OceanDataLab, and is partly funded by the European Space Agency.
 
 ## FAQ (How to cite etc ...)
 
+If you are using a screenshot of the Ocean Virtual Laboratory portal in a public presentation or in a publication, we kindly ask you to add the following citation:
+from Ocean Virtual Laboratory portal https://ovl.oceandatalab.com/
+and you can also add a short link of what you are showing in the caption using the "Share" button in the title bar at the top of the Ocean Virtual Laboratory portal.
+Additionally, if you are showing some Copernicus Sentinel data, you may need to add:
+Contains modified Copernicus Sentinel data
+
+
+
 ## Asking a question or reporting a bug
 
 Open an [issue](https://github.com/oceandatalab/OVL/issues) — for questions about
