@@ -217,8 +217,10 @@ you can find the hotspot tab in the upper menu bar. A popup shows up with server
 
 ## Sharing
 
-Sharing the current view by URL, and creating shareable bookmarks with previews
-through [SEAShot](../seashot/index.md).
+Sharing the current view by URL (Share tab in the upper menu bar), and creating shareable bookmarks with previews
+through [SEAShot](../seashot/index.md), using the camera icon next to share tap in the upper menu bar .
+
+![Share tab and camera icon from the upper menu bar](pict/share.png)
 
 ## Preferences and personal data
 
