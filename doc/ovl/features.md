@@ -208,9 +208,12 @@ How to advect particules with vector fields from OVL portal
 
 
 ## Hotspots
+Bookmarked case studies: what they are and how to use them.
+you can find the hotspot tab in the upper menu bar. A popup shows up with server predefined hotspots and your own local hotspots if you have created some.
+
 ![Hotspot tab from the upper menu bar](pict/hotspots.png)
 
-Bookmarked case studies: what they are and how to use them.
+
 
 ## Sharing
 
