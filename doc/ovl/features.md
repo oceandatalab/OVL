@@ -208,7 +208,7 @@ How to advect particules with vector fields from OVL portal
 
 
 ## Hotspots
-![Hotspot tab from the upper menu bar]("pict/Capture d’écran de 2026-09-02 10-16-24.png")
+![Hotspot tab from the upper menu bar](pict/hotspots.png)
 Bookmarked case studies: what they are and how to use them.
 
 ## Sharing
