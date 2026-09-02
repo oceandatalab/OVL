@@ -23,6 +23,9 @@ Open an [issue](https://github.com/oceandatalab/OVL/issues) — Clic on "New iss
 using the tools as well as for bugs or suggesting improvements. When reporting a bug, please say which tool
 you were using, what you expected, and what happened instead.
 
+Open an [discussion](https://github.com/oceandatalab/OVL/discussions) — Clic on "New discussion" for questions or comments about
+using the tools, or recommendations or whishes for future developpments (OVL tools are under continuous development).
+
 You can also reach us at <https://www.oceandatalab.com>.
 
 ## Link to the tool webpage
