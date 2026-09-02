@@ -189,7 +189,7 @@ How to measure a distance
 Extracting values along a line (transect)
 <p align="center">
 <a href="https://youtu.be/0KZaAIr20zI"><img src="https://img.youtube.com/vi/0KZaAIr20zI/mqdefault.jpg" alt="Video: Extracting values along a line" width="360"></a><br>
-<a href="https://youtu.be/0KZaAIr20zI">▶ Video: How to extract values along a line </a>
+<a href="https://youtu.be/0KZaAIr20zI">▶ Video: How to extract values along a line</a>
 </p>
 
 Extracting layers over a bounding box
